@@ -14,7 +14,7 @@ This demo is designed to run on Linux. In particular, Ubuntu 14.04 LTS was used 
 
 3. Install `mpg123`
 
-    sudo apt-get install mpg123
+        sudo apt-get install mpg123
 
 # Run Demo
 
