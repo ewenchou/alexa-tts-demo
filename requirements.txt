@@ -1,0 +1,2 @@
+git+https://github.com/ewenchou/alexa-client.git
+git+https://github.com/ewenchou/simple-tts.git
